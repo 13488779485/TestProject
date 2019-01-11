@@ -13,6 +13,7 @@ public class MainActivity extends AppCompatActivity {
         string = "commit-2";
         string = "demo_branch";
         string = "demo_branch_1";
+        string = "branch_2_commit";
     }
 
 }
